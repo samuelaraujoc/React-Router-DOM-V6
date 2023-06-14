@@ -1,9 +1,9 @@
 import './style.css';
 
-export const About = () => {
+export const Redirec = () => {
     return(
         <div>
-            <h1>Teste About</h1>
+            <h1>Redirec</h1>
         </div>
     );
 };
